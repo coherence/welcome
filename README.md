@@ -8,7 +8,7 @@
 - Unity 2020.3.0f1 or later
 - a Windows, Linux or macOS system
 
-## Get started
+## Get started with Unity
 
 - [Website](https://coherence.io)
 - [Developer Portal](https://coherence.io/dev)
